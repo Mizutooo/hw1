@@ -1,45 +1,37 @@
-// const obj = {               //приветствие 
-//     key: 'value',
-//     name: 'Ijamal',
-//     text: 'Goodmorning teacher'
+//Светафор
+// let color = prompt('введите что то:')
+
+// if (color === 'green') {
+//     alert('go')
+//     console.log(color + " go");
+// } else if (color === 'red') {
+//     alert('stop')
+//     console.log(color + " stop");
+// } else if (color === 'yellow') {
+//     alert('wait')
+//     console.log(color + " wait");
+// } else {
+//     alert(color + ' is unknown color')
+//     console.log(
+//         color + ' is unknown color');
 // }
 
-// console.log(obj.name, obj.text);
 
-// var num = 0;                       //Равенства
-// var obj = new String("0");
-// var str = "0";
-// var b = false;
+//Приветствие 
+// let name = prompt('Укажите ваше имя')
+// alert("Hello " + name + " from bot")
 
-// console.log(num == num); 
-// console.log(obj == obj); 
-// console.log(str == str); 
 
-// console.log(num == obj);
-// console.log(num == str); 
-// console.log(obj == str); 
-// console.log(null == undefined); 
+//Сравнение
+// let num_one = prompt("Введите первое число")
+// let num_two = prompt("Введите второе число")
 
-// console.log(obj == null);
-// console.log(obj == undefined);
-
-// const colorList = [                //Светафор
-//     {name: 'yellow', interval: 500},
-//     {name: 'red', interval: 4000},
-//     {name: 'yellow', interval: 500},
-//     {name: 'green', interval: 4000},
-//     {name: 'you can cross the traffic light', interval: 100},
-//   ];
-  
-//   let count = 0;
-  
-//   function changeColor() {
-//     if (count === colorList.length) {
-//       count = 0;
-//     }
-//     console.log(colorList[count].name)
-//     setTimeout(changeColor, colorList[count].interval)
-//     count = count + 1;
-//   }
-  
-//   changeColor()
+// if (num_one > num_two) {
+//     alert(num_one + " больше чем " + num_two)
+// } else if (num_one < num_two) {
+//     alert(num_one + " меньше чем " + num_two)
+// } else if (num_one === num_two) {
+//     alert("Равны")
+// } else if (null + num_two) {
+//     alert("Неизвестное число")
+// }
