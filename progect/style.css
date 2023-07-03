@@ -1,0 +1,197 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.header-title {
+  transform: scale(1.9);
+  margin-left: -10rem;
+}
+
+.section {
+  width: 1440px;
+  height: 744px;
+}
+
+.logo {
+  display: flex;
+  font-size: 20px;
+  justify-content: center;
+  align-items: center;
+  font-weight: 900;
+  margin-top: -46rem;
+  text-align: center;
+  margin-left: -70rem;
+}
+
+.menu_items {
+  display: inline-block;
+  gap: 30px;
+  margin-top: -22px;
+  position: absolute;
+  word-spacing: 30px;
+  margin-left: -30rem;
+}
+
+.menu_rooms {
+  gap: 30px;
+  margin-top: -22px;
+  margin-left: -42rem;
+}
+
+.menu_boxs {
+  margin-left: -28rem;
+  margin-top: -22px;
+}
+
+.levo_kortina {
+  margin-top: 8rem;
+  margin-left: -66.50rem;
+}
+
+.lumopa {
+  margin-left: 23rem;
+  margin-top: -30px;
+}
+
+.My_heart {
+  margin-left: 65rem;
+  margin-top: -2.50rem;
+}
+
+.korzina {
+  margin-left: 72rem;
+  margin-top: -1.75rem;
+}
+
+.girl {
+  margin-left: 79.25rem;
+  margin-top: -1.95rem;
+}
+
+.circls {
+  margin-top: -40rem;
+}
+
+.circls1 {
+  margin-left: 20px;
+  position: absolute;
+  margin-top: 8px;
+}
+
+.circls2 {
+  margin-left: 50px;
+  position: absolute;
+  margin-top: 8px;
+}
+
+.circls3 {
+  margin-left: 80px;
+  position: absolute;
+  margin-top: 8px;
+}
+
+.Strelki {
+  margin-left: 75rem;
+  margin-top: -20px;
+  letter-spacing: 2px;
+  gap: 10px;
+}
+
+.Strelki img {
+  margin: 0 0.5rem;
+}
+
+.big_cortina {
+  margin-left: 18.10rem;
+  margin-top: 18px;
+}
+
+.pravo_kortina {
+  margin-left: 67rem;
+  margin-top: -34.80rem;
+}
+
+.second_block {
+  width: 340px;
+  height: 450px;
+  background-color: rgba(255, 255, 255, 0.90);
+  box-shadow: 0 0 10px;
+  margin-left: 14rem;
+  margin-top: -40rem;
+  position: absolute;
+  border-radius: 10px;
+}
+
+.second_text_block > p {
+  display: flex;
+  font-size: 40px;
+  font-weight: 900;
+  font-family: Arial, Helvetica, sans-serif;
+  white-space: normal;
+  color: rgba(58, 58, 58, 1);
+  margin-top: 30px;
+  transform: scale(0.9);
+  text-align: left;
+  margin-left: 12px;
+  border: 2px;
+  line-height: 60px;
+}
+
+.second_gegege_block {
+  color: rgba(137, 137, 137, 1);
+  font-family: sans-serif;
+  text-align: left;
+  margin-left: 2rem;
+  letter-spacing: 1px;
+  line-height: 25px;
+}
+
+.second_button {
+  border: none;
+  background: none;
+  width: 280px;
+  height: 65px;
+  background-color: rgba(232, 159, 113, 1);
+  color: rgba(255, 255, 255, 1);
+  margin-top: 50px;
+}
+
+.third_block {
+  width: 260px;
+  height: 130px;
+  background-color: rgba(255, 255, 255, 0.72);
+  margin-left: 65rem;
+  margin-top: -10rem;
+  position: absolute;
+}
+
+.third_block_text > p {
+  font-size: 20px;
+  font-family:sans-serif ;
+  color: rgba(58, 58, 58, 1);
+  font-weight: 900;
+  margin-left: -120px;
+  margin-top: 29px;
+}
+
+.third_ratatata_block > p {
+  font-family:sans-serif ;
+  color: rgba(58, 58, 58, 1);
+  margin-left: -58px;
+  margin-top: 0px;
+}
+
+.third_price_block > p {
+  font-family:sans-serif ;
+  color: rgba(58, 58, 58, 1);
+  font-weight: 900;
+  margin-left: -95px;
+  margin-top: 16px;
+}
+
+.strelka {
+  margin-top: -22px;
+  margin-left: 200px;
+}
